@@ -1,0 +1,3 @@
+音声認識で四則演算をしてくれます。
+main.pyのpath_voiceにSofTalkというソフトのパスを入れてください。
+SofTalkのダウンロード先：https://www.vector.co.jp/soft/winnt/art/se412443.html
